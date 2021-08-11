@@ -12,4 +12,5 @@ array/
 astrocyteSignal/
 pretreat/
 Tif/
-backup2/
+backup/
+.gitignore
